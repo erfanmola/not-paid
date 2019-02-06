@@ -17,4 +17,4 @@ Just load the .js file in ```<head>```
 
 ## Jalali Date Support :
 
-@ErfanMola
+<a href="https://erfanmola.ir">ErfanMola</a>
