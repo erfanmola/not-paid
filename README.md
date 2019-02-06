@@ -5,16 +5,16 @@ Add opacity to the body tag and increase it every day until their site completel
 
 
 ```javascript
-/* change these variables as you wish */
-	var due_date = new Date('2017-02-27');
-	var days_deadline = 60;
-/* stop changing here */
+    /* Put Jalali Date of projects completion day */
+    var due_date = '1397-9-18';
+
+    /* Put Period of time to make site invisible */
+    var days_deadline = 60;
 ```
 
 ## Usage
 Just load the .js file in ```<head>```
 
-## Author
+## Jalali Date Support :
 
-Inspired from twitter (@riklomas)
-Made by Ciprian, Romania
+@ErfanMola
